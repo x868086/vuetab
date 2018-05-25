@@ -1,0 +1,63 @@
+html,body,ul,li{
+    margin:0px;
+    padding:0px;
+}
+/*
+ul,li{
+    list-style:none;
+}
+
+ul>li{
+    width:200px;
+    height:30px;
+    border:1px solid black;
+    text-align:center;
+    background:#eee;
+    display:inline-block;
+    border-left:none;
+    border-bottom:none;
+}
+#app{
+    overflow:hidden;
+}
+
+
+.active{
+    background:#bbb;
+}
+
+.cont{
+    width:600px;
+    height:100px;
+    background-color:#eee;
+    text-align:center;
+    border:1px solid black;
+    position:absolute;
+}
+
+.wrap{
+    overflow:hidden;
+    width:600px;
+    height:100px;
+    position:relative;
+    border:1px solid black;
+
+}
+
+.tab-enter-active{
+    transition:all 0.5s ease;
+    transform:translateX(0%);
+}
+
+.tab-leave-active{
+    transition:all 0.5s ease;
+    transform:translateX(-100%);
+}
+
+.tab-enter{
+    transform:translateX(100%);
+}
+
+.tab-leave{
+    transform:translateX(0%);
+}*/
